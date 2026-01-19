@@ -27,7 +27,7 @@ if __name__ == "__main__":
     parser.add_argument('-wpVsJet','--wpVsJet', dest='wpVsJet', default='Medium', choices=['Loose','Medium','Tight','VTight'])
     parser.add_argument('-wpVsMu','--wpVsMu', dest='wpVsMu', default='VLoose', choices=['VLoose','Loose','Medium','Tight'])
     parser.add_argument('-wpVsE','--wpVsE', dest='wpVsE', default='VVLoose', choices=['VVLoose','Loose','Medium','Tight'])
-    parser.add_argument('-sample','--sample',dest='sample',default='TTto2L2Nu')
+    parser.add_argument('-sample','--sample',dest='sample',default='TTTo2L2Nu')
     parser.add_argument('-applySF','--applySF',dest='applySF',action='store_true')
     parser.add_argument('-start','--start',dest='start',type=int,default=0)
     parser.add_argument('-period','--period',dest='period',type=int,default=10000000)
