@@ -1,0 +1,107 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : DY : DYJetsToLL_M-50 : norm = 1.22819824
+baseNames :  ['ZTT', 'ZL', 'ZJ']   split :  True
+
+Setting config for sample DYJetsToLL_M-50 ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 4
+antiMu 4
+antiE 6
+momScale 0.03
+
+starting entry 20000000
+ending entry 28355437
+
+processes 20000000 out of 28355437 events
+processes 20100000 out of 28355437 events
+processes 20200000 out of 28355437 events
+processes 20300000 out of 28355437 events
+processes 20400000 out of 28355437 events
+processes 20500000 out of 28355437 events
+processes 20600000 out of 28355437 events
+processes 20700000 out of 28355437 events
+processes 20800000 out of 28355437 events
+processes 20900000 out of 28355437 events
+processes 21000000 out of 28355437 events
+processes 21100000 out of 28355437 events
+processes 21200000 out of 28355437 events
+processes 21300000 out of 28355437 events
+processes 21400000 out of 28355437 events
+processes 21500000 out of 28355437 events
+processes 21600000 out of 28355437 events
+processes 21700000 out of 28355437 events
+processes 21800000 out of 28355437 events
+processes 21900000 out of 28355437 events
+processes 22000000 out of 28355437 events
+processes 22100000 out of 28355437 events
+processes 22200000 out of 28355437 events
+processes 22300000 out of 28355437 events
+processes 22400000 out of 28355437 events
+processes 22500000 out of 28355437 events
+processes 22600000 out of 28355437 events
+processes 22700000 out of 28355437 events
+processes 22800000 out of 28355437 events
+processes 22900000 out of 28355437 events
+processes 23000000 out of 28355437 events
+processes 23100000 out of 28355437 events
+processes 23200000 out of 28355437 events
+processes 23300000 out of 28355437 events
+processes 23400000 out of 28355437 events
+processes 23500000 out of 28355437 events
+processes 23600000 out of 28355437 events
+processes 23700000 out of 28355437 events
+processes 23800000 out of 28355437 events
+processes 23900000 out of 28355437 events
+processes 24000000 out of 28355437 events
+processes 24100000 out of 28355437 events
+processes 24200000 out of 28355437 events
+processes 24300000 out of 28355437 events
+processes 24400000 out of 28355437 events
+processes 24500000 out of 28355437 events
+processes 24600000 out of 28355437 events
+processes 24700000 out of 28355437 events
+processes 24800000 out of 28355437 events
+processes 24900000 out of 28355437 events
+processes 25000000 out of 28355437 events
+processes 25100000 out of 28355437 events
+processes 25200000 out of 28355437 events
+processes 25300000 out of 28355437 events
+processes 25400000 out of 28355437 events
+processes 25500000 out of 28355437 events
+processes 25600000 out of 28355437 events
+processes 25700000 out of 28355437 events
+processes 25800000 out of 28355437 events
+processes 25900000 out of 28355437 events
+processes 26000000 out of 28355437 events
+processes 26100000 out of 28355437 events
+processes 26200000 out of 28355437 events
+processes 26300000 out of 28355437 events
+processes 26400000 out of 28355437 events
+processes 26500000 out of 28355437 events
+processes 26600000 out of 28355437 events
+processes 26700000 out of 28355437 events
+processes 26800000 out of 28355437 events
+processes 26900000 out of 28355437 events
+processes 27000000 out of 28355437 events
+processes 27100000 out of 28355437 events
+processes 27200000 out of 28355437 events
+processes 27300000 out of 28355437 events
+processes 27400000 out of 28355437 events
+processes 27500000 out of 28355437 events
+processes 27600000 out of 28355437 events
+processes 27700000 out of 28355437 events
+processes 27800000 out of 28355437 events
+processes 27900000 out of 28355437 events
+processes 28000000 out of 28355437 events
+processes 28100000 out of 28355437 events
+processes 28200000 out of 28355437 events
+processes 28300000 out of 28355437 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_LooseVsJet_TightVsMu_TightVsE/DYJetsToLL_M-50_2.root

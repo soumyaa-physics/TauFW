@@ -1,0 +1,83 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : Data : SingleMuon_Run2017B : norm = 1.00000000
+baseNames :  ['Data']   split :  False
+
+Setting config for sample SingleMuon_Run2017B ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 6
+antiMu 2
+antiE 2
+momScale 0.03
+
+starting entry 0
+ending entry 5923737
+
+processes 0 out of 5923737 events
+processes 100000 out of 5923737 events
+processes 200000 out of 5923737 events
+processes 300000 out of 5923737 events
+processes 400000 out of 5923737 events
+processes 500000 out of 5923737 events
+processes 600000 out of 5923737 events
+processes 700000 out of 5923737 events
+processes 800000 out of 5923737 events
+processes 900000 out of 5923737 events
+processes 1000000 out of 5923737 events
+processes 1100000 out of 5923737 events
+processes 1200000 out of 5923737 events
+processes 1300000 out of 5923737 events
+processes 1400000 out of 5923737 events
+processes 1500000 out of 5923737 events
+processes 1600000 out of 5923737 events
+processes 1700000 out of 5923737 events
+processes 1800000 out of 5923737 events
+processes 1900000 out of 5923737 events
+processes 2000000 out of 5923737 events
+processes 2100000 out of 5923737 events
+processes 2200000 out of 5923737 events
+processes 2300000 out of 5923737 events
+processes 2400000 out of 5923737 events
+processes 2500000 out of 5923737 events
+processes 2600000 out of 5923737 events
+processes 2700000 out of 5923737 events
+processes 2800000 out of 5923737 events
+processes 2900000 out of 5923737 events
+processes 3000000 out of 5923737 events
+processes 3100000 out of 5923737 events
+processes 3200000 out of 5923737 events
+processes 3300000 out of 5923737 events
+processes 3400000 out of 5923737 events
+processes 3500000 out of 5923737 events
+processes 3600000 out of 5923737 events
+processes 3700000 out of 5923737 events
+processes 3800000 out of 5923737 events
+processes 3900000 out of 5923737 events
+processes 4000000 out of 5923737 events
+processes 4100000 out of 5923737 events
+processes 4200000 out of 5923737 events
+processes 4300000 out of 5923737 events
+processes 4400000 out of 5923737 events
+processes 4500000 out of 5923737 events
+processes 4600000 out of 5923737 events
+processes 4700000 out of 5923737 events
+processes 4800000 out of 5923737 events
+processes 4900000 out of 5923737 events
+processes 5000000 out of 5923737 events
+processes 5100000 out of 5923737 events
+processes 5200000 out of 5923737 events
+processes 5300000 out of 5923737 events
+processes 5400000 out of 5923737 events
+processes 5500000 out of 5923737 events
+processes 5600000 out of 5923737 events
+processes 5700000 out of 5923737 events
+processes 5800000 out of 5923737 events
+processes 5900000 out of 5923737 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_TightVsJet_LooseVsMu_VVLooseVsE/SingleMuon_Run2017B_0.root

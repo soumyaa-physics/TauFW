@@ -1,0 +1,38 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : ST : ST_t-channel_top : norm = 0.04635004
+baseNames :  ['VV']   split :  False
+
+Setting config for sample ST_t-channel_top ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 4
+antiMu 4
+antiE 2
+momScale 0.03
+
+starting entry 0
+ending entry 1482049
+
+processes 0 out of 1482049 events
+processes 100000 out of 1482049 events
+processes 200000 out of 1482049 events
+processes 300000 out of 1482049 events
+processes 400000 out of 1482049 events
+processes 500000 out of 1482049 events
+processes 600000 out of 1482049 events
+processes 700000 out of 1482049 events
+processes 800000 out of 1482049 events
+processes 900000 out of 1482049 events
+processes 1000000 out of 1482049 events
+processes 1100000 out of 1482049 events
+processes 1200000 out of 1482049 events
+processes 1300000 out of 1482049 events
+processes 1400000 out of 1482049 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_LooseVsJet_TightVsMu_VVLooseVsE/ST_t-channel_top_0.root

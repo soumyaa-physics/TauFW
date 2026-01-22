@@ -1,0 +1,18 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : DY : DYJetsToLL_M-50 : norm = 1.22819824
+baseNames :  ['ZTT', 'ZL', 'ZJ']   split :  True
+
+Setting config for sample DYJetsToLL_M-50 ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 4
+antiMu 3
+antiE 6
+momScale 0.03

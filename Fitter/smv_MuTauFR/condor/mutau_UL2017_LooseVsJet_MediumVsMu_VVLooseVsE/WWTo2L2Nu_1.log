@@ -1,0 +1,43 @@
+000 (9119107.000.000) 01/22 16:43:58 Job submitted from host: <188.185.6.50:9618?addrs=188.185.6.50-9618+[2001-1458-d00-62--100-2b1]-9618&alias=bigbird25.cern.ch&noUDP&sock=schedd_1627_90ad>
+...
+040 (9119107.000.000) 01/22 16:44:56 Started transferring input files
+	Transferring to host: <188.185.209.82:9618?addrs=188.185.209.82-9618+[2001-1458-303-11--100-4f]-9618&alias=b9p11p4063.cern.ch&noUDP&sock=slot1_6_10383_833f_109515>
+...
+040 (9119107.000.000) 01/22 16:44:56 Finished transferring input files
+...
+001 (9119107.000.000) 01/22 16:44:57 Job executing on host: <188.185.209.82:9618?addrs=188.185.209.82-9618+[2001-1458-303-11--100-4f]-9618&alias=b9p11p4063.cern.ch&noUDP&sock=startd_9159_e402>
+	SlotName: slot1_6@b9p11p4063.cern.ch
+	CondorScratchDir = "/pool/condor/dir_3887402"
+	Cpus = 1
+	Disk = 3711
+	GPUs = 0
+	Memory = 3000
+...
+006 (9119107.000.000) 01/22 16:45:10 Image size of job updated: 130996
+	128  -  MemoryUsage of job (MB)
+	130996  -  ResidentSetSize of job (KB)
+...
+040 (9119107.000.000) 01/22 16:45:12 Started transferring output files
+...
+040 (9119107.000.000) 01/22 16:45:12 Finished transferring output files
+...
+005 (9119107.000.000) 01/22 16:45:12 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:03, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:03, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	5990  -  Run Bytes Sent By Job
+	315  -  Run Bytes Received By Job
+	5990  -  Total Bytes Sent By Job
+	315  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       32        1      3711 
+	   GPUs                 :                           0 
+	   Memory (MB)          :      128     3000      3000 
+	   TimeExecute (s)      :       15                    
+	   TimeSlotBusy (s)     :       17                    
+
+	Job terminated of its own accord at 2026-01-22T15:45:12Z with exit-code 0.
+...

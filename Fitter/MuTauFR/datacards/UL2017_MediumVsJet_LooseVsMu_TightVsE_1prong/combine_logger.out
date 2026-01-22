@@ -1,0 +1,28 @@
+FitDiagnostics.cc[876] : (in function: getNormalizations) - Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+FitterAlgoBase.cc[250] : (in function: doFit) - do first minimization
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+utils.cc[1054] : (in function: anyParameterAtBoundaries) - [WARNING] Found parameter r_pass at boundary (within ~1sigma): 0.5+/-0.00425759
+CascadeMinimizer.cc[497] : (in function: minimize) - [WARNING] After fit, some parameters are found at the boundary (within ~1sigma)
+FitterAlgoBase.cc[254] : (in function: doFit) - Minimized in 0.007604 seconds (0.000000 CPU time)
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+FitDiagnostics.cc[324] : (in function: runSpecific) -  Fit B-only, status = 0, numBadNLL = 0, covariance quality = -1
+FitDiagnostics.cc[876] : (in function: getNormalizations) - Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys
+FitterAlgoBase.cc[250] : (in function: doFit) - do first minimization
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+FitterAlgoBase.cc[254] : (in function: doFit) - Minimized in 0.002662 seconds (0.000000 CPU time)
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+FitterAlgoBase.cc[353] : (in function: doFit) - Running Minos for POI r
+FitterAlgoBase.cc[358] : (in function: doFit) - Run Minos in 0.005690 seconds (0.010000 CPU time)
+FitDiagnostics.cc[449] : (in function: runSpecific) - Fit S+B, status = 0, numBadNLL = 0, covariance quality = -1
+FitDiagnostics.cc[876] : (in function: getNormalizations) - Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys

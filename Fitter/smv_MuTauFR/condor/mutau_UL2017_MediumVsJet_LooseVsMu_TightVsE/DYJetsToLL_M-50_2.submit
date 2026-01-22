@@ -1,0 +1,11 @@
+universe = vanilla
+executable = /afs/cern.ch/user/s/svashish/MuTauFR/condor/mutau_UL2017_MediumVsJet_LooseVsMu_TightVsE/DYJetsToLL_M-50_2.sh
+output = /afs/cern.ch/user/s/svashish/MuTauFR/condor/mutau_UL2017_MediumVsJet_LooseVsMu_TightVsE/DYJetsToLL_M-50_2.out
+error = /afs/cern.ch/user/s/svashish/MuTauFR/condor/mutau_UL2017_MediumVsJet_LooseVsMu_TightVsE/DYJetsToLL_M-50_2.err
+log = /afs/cern.ch/user/s/svashish/MuTauFR/condor/mutau_UL2017_MediumVsJet_LooseVsMu_TightVsE/DYJetsToLL_M-50_2.log
+notification = Never
+initialdir = /afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
++MaxRuntime = 50000
++RequestRuntime = 50000
+MY.WantOS = el9
+queue

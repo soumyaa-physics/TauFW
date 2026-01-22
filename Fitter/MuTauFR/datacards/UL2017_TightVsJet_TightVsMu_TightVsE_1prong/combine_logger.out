@@ -1,0 +1,22 @@
+FitDiagnostics.cc[876] : (in function: getNormalizations) - Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+FitterAlgoBase.cc[250] : (in function: doFit) - do first minimization
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=-1
+CascadeMinimizer.cc[234] : (in function: improveOnce) - Minimization ended with latest status != 0 or 1
+FitterAlgoBase.cc[254] : (in function: doFit) - Minimized in 0.001011 seconds (0.000000 CPU time)
+FitterAlgoBase.cc[269] : (in function: doFit) - Initial minimization failed. Aborting.
+FitterAlgoBase.cc[250] : (in function: doFit) - do first minimization
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+FitterAlgoBase.cc[254] : (in function: doFit) - Minimized in 0.005216 seconds (0.000000 CPU time)
+CascadeMinimizer.cc[184] : (in function: improveOnce) - Minimization configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+CascadeMinimizer.cc[229] : (in function: improveOnce) - Minimization finished with status=0
+CascadeMinimizer.cc[233] : (in function: improveOnce) - Minimization success! status=0
+FitterAlgoBase.cc[353] : (in function: doFit) - Running Minos for POI r
+FitterAlgoBase.cc[358] : (in function: doFit) - Run Minos in 0.012699 seconds (0.010000 CPU time)
+FitDiagnostics.cc[449] : (in function: runSpecific) - Fit S+B, status = 0, numBadNLL = 0, covariance quality = -1
+FitDiagnostics.cc[876] : (in function: getNormalizations) - Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys

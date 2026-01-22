@@ -1,0 +1,58 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : VV : ZZTo2Q2L : norm = 0.00796874
+baseNames :  ['VV']   split :  False
+
+Setting config for sample ZZTo2Q2L ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 5
+antiMu 3
+antiE 6
+momScale 0.03
+
+starting entry 0
+ending entry 3474166
+
+processes 0 out of 3474166 events
+processes 100000 out of 3474166 events
+processes 200000 out of 3474166 events
+processes 300000 out of 3474166 events
+processes 400000 out of 3474166 events
+processes 500000 out of 3474166 events
+processes 600000 out of 3474166 events
+processes 700000 out of 3474166 events
+processes 800000 out of 3474166 events
+processes 900000 out of 3474166 events
+processes 1000000 out of 3474166 events
+processes 1100000 out of 3474166 events
+processes 1200000 out of 3474166 events
+processes 1300000 out of 3474166 events
+processes 1400000 out of 3474166 events
+processes 1500000 out of 3474166 events
+processes 1600000 out of 3474166 events
+processes 1700000 out of 3474166 events
+processes 1800000 out of 3474166 events
+processes 1900000 out of 3474166 events
+processes 2000000 out of 3474166 events
+processes 2100000 out of 3474166 events
+processes 2200000 out of 3474166 events
+processes 2300000 out of 3474166 events
+processes 2400000 out of 3474166 events
+processes 2500000 out of 3474166 events
+processes 2600000 out of 3474166 events
+processes 2700000 out of 3474166 events
+processes 2800000 out of 3474166 events
+processes 2900000 out of 3474166 events
+processes 3000000 out of 3474166 events
+processes 3100000 out of 3474166 events
+processes 3200000 out of 3474166 events
+processes 3300000 out of 3474166 events
+processes 3400000 out of 3474166 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_MediumVsJet_MediumVsMu_TightVsE/ZZTo2Q2L_0.root

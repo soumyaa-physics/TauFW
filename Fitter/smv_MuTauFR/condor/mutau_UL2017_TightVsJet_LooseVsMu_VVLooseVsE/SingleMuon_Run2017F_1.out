@@ -1,0 +1,94 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : Data : SingleMuon_Run2017F : norm = 1.00000000
+baseNames :  ['Data']   split :  False
+
+Setting config for sample SingleMuon_Run2017F ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 6
+antiMu 2
+antiE 2
+momScale 0.03
+
+starting entry 10000000
+ending entry 17098571
+
+processes 10000000 out of 17098571 events
+processes 10100000 out of 17098571 events
+processes 10200000 out of 17098571 events
+processes 10300000 out of 17098571 events
+processes 10400000 out of 17098571 events
+processes 10500000 out of 17098571 events
+processes 10600000 out of 17098571 events
+processes 10700000 out of 17098571 events
+processes 10800000 out of 17098571 events
+processes 10900000 out of 17098571 events
+processes 11000000 out of 17098571 events
+processes 11100000 out of 17098571 events
+processes 11200000 out of 17098571 events
+processes 11300000 out of 17098571 events
+processes 11400000 out of 17098571 events
+processes 11500000 out of 17098571 events
+processes 11600000 out of 17098571 events
+processes 11700000 out of 17098571 events
+processes 11800000 out of 17098571 events
+processes 11900000 out of 17098571 events
+processes 12000000 out of 17098571 events
+processes 12100000 out of 17098571 events
+processes 12200000 out of 17098571 events
+processes 12300000 out of 17098571 events
+processes 12400000 out of 17098571 events
+processes 12500000 out of 17098571 events
+processes 12600000 out of 17098571 events
+processes 12700000 out of 17098571 events
+processes 12800000 out of 17098571 events
+processes 12900000 out of 17098571 events
+processes 13000000 out of 17098571 events
+processes 13100000 out of 17098571 events
+processes 13200000 out of 17098571 events
+processes 13300000 out of 17098571 events
+processes 13400000 out of 17098571 events
+processes 13500000 out of 17098571 events
+processes 13600000 out of 17098571 events
+processes 13700000 out of 17098571 events
+processes 13800000 out of 17098571 events
+processes 13900000 out of 17098571 events
+processes 14000000 out of 17098571 events
+processes 14100000 out of 17098571 events
+processes 14200000 out of 17098571 events
+processes 14300000 out of 17098571 events
+processes 14400000 out of 17098571 events
+processes 14500000 out of 17098571 events
+processes 14600000 out of 17098571 events
+processes 14700000 out of 17098571 events
+processes 14800000 out of 17098571 events
+processes 14900000 out of 17098571 events
+processes 15000000 out of 17098571 events
+processes 15100000 out of 17098571 events
+processes 15200000 out of 17098571 events
+processes 15300000 out of 17098571 events
+processes 15400000 out of 17098571 events
+processes 15500000 out of 17098571 events
+processes 15600000 out of 17098571 events
+processes 15700000 out of 17098571 events
+processes 15800000 out of 17098571 events
+processes 15900000 out of 17098571 events
+processes 16000000 out of 17098571 events
+processes 16100000 out of 17098571 events
+processes 16200000 out of 17098571 events
+processes 16300000 out of 17098571 events
+processes 16400000 out of 17098571 events
+processes 16500000 out of 17098571 events
+processes 16600000 out of 17098571 events
+processes 16700000 out of 17098571 events
+processes 16800000 out of 17098571 events
+processes 16900000 out of 17098571 events
+processes 17000000 out of 17098571 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_TightVsJet_LooseVsMu_VVLooseVsE/SingleMuon_Run2017F_1.root

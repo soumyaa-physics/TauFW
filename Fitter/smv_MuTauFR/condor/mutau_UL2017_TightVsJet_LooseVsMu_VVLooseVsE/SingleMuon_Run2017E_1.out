@@ -1,0 +1,39 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : Data : SingleMuon_Run2017E : norm = 1.00000000
+baseNames :  ['Data']   split :  False
+
+Setting config for sample SingleMuon_Run2017E ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 6
+antiMu 2
+antiE 2
+momScale 0.03
+
+starting entry 10000000
+ending entry 11529114
+
+processes 10000000 out of 11529114 events
+processes 10100000 out of 11529114 events
+processes 10200000 out of 11529114 events
+processes 10300000 out of 11529114 events
+processes 10400000 out of 11529114 events
+processes 10500000 out of 11529114 events
+processes 10600000 out of 11529114 events
+processes 10700000 out of 11529114 events
+processes 10800000 out of 11529114 events
+processes 10900000 out of 11529114 events
+processes 11000000 out of 11529114 events
+processes 11100000 out of 11529114 events
+processes 11200000 out of 11529114 events
+processes 11300000 out of 11529114 events
+processes 11400000 out of 11529114 events
+processes 11500000 out of 11529114 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_TightVsJet_LooseVsMu_VVLooseVsE/SingleMuon_Run2017E_1.root

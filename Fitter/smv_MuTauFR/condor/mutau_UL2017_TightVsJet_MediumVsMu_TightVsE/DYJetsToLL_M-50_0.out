@@ -1,0 +1,123 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : DY : DYJetsToLL_M-50 : norm = 1.22819824
+baseNames :  ['ZTT', 'ZL', 'ZJ']   split :  True
+
+Setting config for sample DYJetsToLL_M-50 ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 6
+antiMu 3
+antiE 6
+momScale 0.03
+
+starting entry 0
+ending entry 10000000
+
+processes 0 out of 28355437 events
+processes 100000 out of 28355437 events
+processes 200000 out of 28355437 events
+processes 300000 out of 28355437 events
+processes 400000 out of 28355437 events
+processes 500000 out of 28355437 events
+processes 600000 out of 28355437 events
+processes 700000 out of 28355437 events
+processes 800000 out of 28355437 events
+processes 900000 out of 28355437 events
+processes 1000000 out of 28355437 events
+processes 1100000 out of 28355437 events
+processes 1200000 out of 28355437 events
+processes 1300000 out of 28355437 events
+processes 1400000 out of 28355437 events
+processes 1500000 out of 28355437 events
+processes 1600000 out of 28355437 events
+processes 1700000 out of 28355437 events
+processes 1800000 out of 28355437 events
+processes 1900000 out of 28355437 events
+processes 2000000 out of 28355437 events
+processes 2100000 out of 28355437 events
+processes 2200000 out of 28355437 events
+processes 2300000 out of 28355437 events
+processes 2400000 out of 28355437 events
+processes 2500000 out of 28355437 events
+processes 2600000 out of 28355437 events
+processes 2700000 out of 28355437 events
+processes 2800000 out of 28355437 events
+processes 2900000 out of 28355437 events
+processes 3000000 out of 28355437 events
+processes 3100000 out of 28355437 events
+processes 3200000 out of 28355437 events
+processes 3300000 out of 28355437 events
+processes 3400000 out of 28355437 events
+processes 3500000 out of 28355437 events
+processes 3600000 out of 28355437 events
+processes 3700000 out of 28355437 events
+processes 3800000 out of 28355437 events
+processes 3900000 out of 28355437 events
+processes 4000000 out of 28355437 events
+processes 4100000 out of 28355437 events
+processes 4200000 out of 28355437 events
+processes 4300000 out of 28355437 events
+processes 4400000 out of 28355437 events
+processes 4500000 out of 28355437 events
+processes 4600000 out of 28355437 events
+processes 4700000 out of 28355437 events
+processes 4800000 out of 28355437 events
+processes 4900000 out of 28355437 events
+processes 5000000 out of 28355437 events
+processes 5100000 out of 28355437 events
+processes 5200000 out of 28355437 events
+processes 5300000 out of 28355437 events
+processes 5400000 out of 28355437 events
+processes 5500000 out of 28355437 events
+processes 5600000 out of 28355437 events
+processes 5700000 out of 28355437 events
+processes 5800000 out of 28355437 events
+processes 5900000 out of 28355437 events
+processes 6000000 out of 28355437 events
+processes 6100000 out of 28355437 events
+processes 6200000 out of 28355437 events
+processes 6300000 out of 28355437 events
+processes 6400000 out of 28355437 events
+processes 6500000 out of 28355437 events
+processes 6600000 out of 28355437 events
+processes 6700000 out of 28355437 events
+processes 6800000 out of 28355437 events
+processes 6900000 out of 28355437 events
+processes 7000000 out of 28355437 events
+processes 7100000 out of 28355437 events
+processes 7200000 out of 28355437 events
+processes 7300000 out of 28355437 events
+processes 7400000 out of 28355437 events
+processes 7500000 out of 28355437 events
+processes 7600000 out of 28355437 events
+processes 7700000 out of 28355437 events
+processes 7800000 out of 28355437 events
+processes 7900000 out of 28355437 events
+processes 8000000 out of 28355437 events
+processes 8100000 out of 28355437 events
+processes 8200000 out of 28355437 events
+processes 8300000 out of 28355437 events
+processes 8400000 out of 28355437 events
+processes 8500000 out of 28355437 events
+processes 8600000 out of 28355437 events
+processes 8700000 out of 28355437 events
+processes 8800000 out of 28355437 events
+processes 8900000 out of 28355437 events
+processes 9000000 out of 28355437 events
+processes 9100000 out of 28355437 events
+processes 9200000 out of 28355437 events
+processes 9300000 out of 28355437 events
+processes 9400000 out of 28355437 events
+processes 9500000 out of 28355437 events
+processes 9600000 out of 28355437 events
+processes 9700000 out of 28355437 events
+processes 9800000 out of 28355437 events
+processes 9900000 out of 28355437 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_TightVsJet_MediumVsMu_TightVsE/DYJetsToLL_M-50_0.root

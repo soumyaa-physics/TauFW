@@ -1,0 +1,123 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : TT : TTToSemiLeptonic : norm = 0.04299667
+baseNames :  ['TTT', 'TTL', 'TTJ']   split :  True
+
+Setting config for sample TTToSemiLeptonic ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 6
+antiMu 4
+antiE 2
+momScale 0.03
+
+starting entry 10000000
+ending entry 20000000
+
+processes 10000000 out of 23375198 events
+processes 10100000 out of 23375198 events
+processes 10200000 out of 23375198 events
+processes 10300000 out of 23375198 events
+processes 10400000 out of 23375198 events
+processes 10500000 out of 23375198 events
+processes 10600000 out of 23375198 events
+processes 10700000 out of 23375198 events
+processes 10800000 out of 23375198 events
+processes 10900000 out of 23375198 events
+processes 11000000 out of 23375198 events
+processes 11100000 out of 23375198 events
+processes 11200000 out of 23375198 events
+processes 11300000 out of 23375198 events
+processes 11400000 out of 23375198 events
+processes 11500000 out of 23375198 events
+processes 11600000 out of 23375198 events
+processes 11700000 out of 23375198 events
+processes 11800000 out of 23375198 events
+processes 11900000 out of 23375198 events
+processes 12000000 out of 23375198 events
+processes 12100000 out of 23375198 events
+processes 12200000 out of 23375198 events
+processes 12300000 out of 23375198 events
+processes 12400000 out of 23375198 events
+processes 12500000 out of 23375198 events
+processes 12600000 out of 23375198 events
+processes 12700000 out of 23375198 events
+processes 12800000 out of 23375198 events
+processes 12900000 out of 23375198 events
+processes 13000000 out of 23375198 events
+processes 13100000 out of 23375198 events
+processes 13200000 out of 23375198 events
+processes 13300000 out of 23375198 events
+processes 13400000 out of 23375198 events
+processes 13500000 out of 23375198 events
+processes 13600000 out of 23375198 events
+processes 13700000 out of 23375198 events
+processes 13800000 out of 23375198 events
+processes 13900000 out of 23375198 events
+processes 14000000 out of 23375198 events
+processes 14100000 out of 23375198 events
+processes 14200000 out of 23375198 events
+processes 14300000 out of 23375198 events
+processes 14400000 out of 23375198 events
+processes 14500000 out of 23375198 events
+processes 14600000 out of 23375198 events
+processes 14700000 out of 23375198 events
+processes 14800000 out of 23375198 events
+processes 14900000 out of 23375198 events
+processes 15000000 out of 23375198 events
+processes 15100000 out of 23375198 events
+processes 15200000 out of 23375198 events
+processes 15300000 out of 23375198 events
+processes 15400000 out of 23375198 events
+processes 15500000 out of 23375198 events
+processes 15600000 out of 23375198 events
+processes 15700000 out of 23375198 events
+processes 15800000 out of 23375198 events
+processes 15900000 out of 23375198 events
+processes 16000000 out of 23375198 events
+processes 16100000 out of 23375198 events
+processes 16200000 out of 23375198 events
+processes 16300000 out of 23375198 events
+processes 16400000 out of 23375198 events
+processes 16500000 out of 23375198 events
+processes 16600000 out of 23375198 events
+processes 16700000 out of 23375198 events
+processes 16800000 out of 23375198 events
+processes 16900000 out of 23375198 events
+processes 17000000 out of 23375198 events
+processes 17100000 out of 23375198 events
+processes 17200000 out of 23375198 events
+processes 17300000 out of 23375198 events
+processes 17400000 out of 23375198 events
+processes 17500000 out of 23375198 events
+processes 17600000 out of 23375198 events
+processes 17700000 out of 23375198 events
+processes 17800000 out of 23375198 events
+processes 17900000 out of 23375198 events
+processes 18000000 out of 23375198 events
+processes 18100000 out of 23375198 events
+processes 18200000 out of 23375198 events
+processes 18300000 out of 23375198 events
+processes 18400000 out of 23375198 events
+processes 18500000 out of 23375198 events
+processes 18600000 out of 23375198 events
+processes 18700000 out of 23375198 events
+processes 18800000 out of 23375198 events
+processes 18900000 out of 23375198 events
+processes 19000000 out of 23375198 events
+processes 19100000 out of 23375198 events
+processes 19200000 out of 23375198 events
+processes 19300000 out of 23375198 events
+processes 19400000 out of 23375198 events
+processes 19500000 out of 23375198 events
+processes 19600000 out of 23375198 events
+processes 19700000 out of 23375198 events
+processes 19800000 out of 23375198 events
+processes 19900000 out of 23375198 events
+opening file /afs/cern.ch/user/s/svashish/MuTauFR/selection/mutau_UL2017_TightVsJet_TightVsMu_VVLooseVsE/TTToSemiLeptonic_1.root

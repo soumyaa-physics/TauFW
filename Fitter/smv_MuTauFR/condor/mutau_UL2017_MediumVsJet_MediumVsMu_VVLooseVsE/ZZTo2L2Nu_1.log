@@ -1,0 +1,43 @@
+000 (9119893.000.000) 01/22 18:45:34 Job submitted from host: <188.185.6.50:9618?addrs=188.185.6.50-9618+[2001-1458-d00-62--100-2b1]-9618&alias=bigbird25.cern.ch&noUDP&sock=schedd_1627_90ad>
+...
+040 (9119893.000.000) 01/22 18:49:19 Started transferring input files
+	Transferring to host: <188.185.213.148:9618?addrs=188.185.213.148-9618+[2001-1458-303-1b--100-10]-9618&alias=b9p28p0002.cern.ch&noUDP&sock=slot1_10_4516_ae31_157531>
+...
+040 (9119893.000.000) 01/22 18:49:19 Finished transferring input files
+...
+001 (9119893.000.000) 01/22 18:49:20 Job executing on host: <188.185.213.148:9618?addrs=188.185.213.148-9618+[2001-1458-303-1b--100-10]-9618&alias=b9p28p0002.cern.ch&noUDP&sock=startd_3840_7fc3>
+	SlotName: slot1_10@b9p28p0002.cern.ch
+	CondorScratchDir = "/pool/condor/dir_1228239"
+	Cpus = 1
+	Disk = 3863
+	GPUs = 0
+	Memory = 3000
+...
+006 (9119893.000.000) 01/22 18:49:31 Image size of job updated: 129540
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (9119893.000.000) 01/22 18:49:31 Started transferring output files
+...
+040 (9119893.000.000) 01/22 18:49:31 Finished transferring output files
+...
+005 (9119893.000.000) 01/22 18:49:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:03, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:03, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	5990  -  Run Bytes Sent By Job
+	316  -  Run Bytes Received By Job
+	5990  -  Total Bytes Sent By Job
+	316  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       29        1      3863 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        0     3000      3000 
+	   TimeExecute (s)      :       11                    
+	   TimeSlotBusy (s)     :       12                    
+
+	Job terminated of its own accord at 2026-01-22T17:49:31Z with exit-code 0.
+...

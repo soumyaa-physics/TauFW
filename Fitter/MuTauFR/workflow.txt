@@ -1,0 +1,20 @@
+table:
+wpVsJet: [Loose, Medium, Tight]
+wpVsMu: [VLoose, Loose, Tight]
+wpVsE: [VVLoose, Tight]
+
+./scripts/RunSelectionMuTau.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose --period 1000-
+
+# this makes a lot of condor jobs- then run the bash file
+./scripts/PrepareSubmit/py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose
+# gives a bash file to submit condor jobs
+./scripts/HaddSamples.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose
+./scripts/ControlPlotsMutau.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose
+./scripts/RunMeasurements.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose 
+./scripts/RunMeasurements.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose --extractSF --runFit
+
+./scripts/PlotMuTau.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose
+./scripts/ExtractScaleFactors.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose 
+
+# then add all root files in Scalefactors in a single root file called UL2017_ScaleFactors.root
+./scripts/PlotMuTauFR.py --era UL2017 --wpVsMu VLoose --wpVsJet Medium --wpVsE VVLoose 

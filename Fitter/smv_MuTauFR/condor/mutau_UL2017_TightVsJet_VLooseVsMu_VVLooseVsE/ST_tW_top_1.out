@@ -1,0 +1,18 @@
+/afs/cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/MuTauFR
+
+UL2017 : ST : ST_tW_top : norm = 0.17480887
+baseNames :  ['VV']   split :  False
+
+Setting config for sample ST_tW_top ->
+Setting cuts for Z->tau(mu)tau(h) selection
+muonPtCut 26.0
+muonEtaCut 2.4
+muonIsoCut 0.15
+tauPtCut 22.0
+tauEtaCut 2.5
+mtCut 40.0
+drCut 0.5
+antiJet 6
+antiMu 1
+antiE 2
+momScale 0.03

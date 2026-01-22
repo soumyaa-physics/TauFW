@@ -16,6 +16,7 @@ import os
 picoFolder= {
     '2024': '/eos/cms/store/group/phys_tau/TauFW/pico2024/mutau_FR',
     'UL2017': '/eos/cms/store/group/phys_tau/rasp/Run2_UL',
+    'UL2016_preVFP': '/eos/cms/store/group/phys_tau/rasp/Run2_UL',
     }
 ####################################################
 # folders needs to be set by user                  #
@@ -24,9 +25,9 @@ picoFolder= {
 # condorFolder - folder to store scripts           #
 #                for submitting jobs to condor     #
 ####################################################
-outputFolder = '/afs/cern.ch/work/r/rasp/MuTauFR/selection' 
-condorFolder = '/afs/cern.ch/work/r/rasp/MuTauFR/condor' 
-figuresFolder = '/eos/home-r/rasp/php-plots/plots/MuTauFR'
+outputFolder = '/afs/.cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/smv_MuTauFR/selection' 
+condorFolder = '/afs/.cern.ch/user/s/svashish/CMSSW_14_1_0_pre4/src/TauFW/Fitter/smv_MuTauFR/condor' 
+figuresFolder = '/eos/user/s/svashish/MuTauFR/plots'
 
 ###################
 # Cross sections  #
@@ -81,12 +82,31 @@ mc_samples = {
         "ST_t-channel_antitop":     ( 80.95,  65821722.0, "ST", ['VV']),
         "ST_tW_top"           :     ( 35.85,   8506765.0, "ST", ['VV']),
         "ST_tW_antitop"       :     ( 35.85,   8433562.0, "ST", ['VV']),
+    },
+    #cross-section is the same as UL2017, changed the number of gen weights
+    'UL2016_preVFP': { 
+        "DYJetsToLL_M-10to50" :     (21167.,  25799525.0, "DY", ['ZTT','ZL','ZJ']),
+        "DYJetsToLL_M-50"     :     ( 6077., 95170542.0, "DY", ['ZTT','ZL','ZJ']),
+        "WJetsToLNu"          :     (61526.,  74676454.0, "WJ", ['W']),
+        "TTTo2L2Nu"           :     ( 88.29, 37202074.0, "TT", ['TTT','TTL','TTJ']),
+        "TTToSemiLeptonic"    :     (365.35, 131106830.0, "TT", ['TTT','TTL','TTJ']),
+        "WWTo2L2Nu"           :     ( 11.09,  3006596.0, "VV", ['VV']),
+        "WZTo2Q2L"            :     ( 6.419,  9780392.0, "VV", ['VV']),
+        "WZTo3LNu"            :     ( 5.213,   6363896.0, "VV", ['VV']),
+        "ZZTo2L2Nu"           :     (0.6008,  16826232.0, "VV", ['VV']),
+        "ZZTo2Q2L"            :     (3.676,   10406942.0, "VV", ['VV']),
+        "ST_t-channel_top"    :     (136.02, 52437432.0, "ST", ['VV']),
+        "ST_t-channel_antitop":     ( 80.95,  29205918.0, "ST", ['VV']),
+        "ST_tW_top"           :     ( 35.85,   3294485.0, "ST", ['VV']),
+        "ST_tW_antitop"       :     ( 35.85,   3176335.0, "ST", ['VV']),
     }
 }
 
 data_samples = {
     '2024': ['Muon0_Run2024C','Muon0_Run2024D','Muon0_Run2024E','Muon0_Run2024F','Muon0_Run2024G','Muon0_Run2024H','Muon0_Run2024I','Muon1_Run2024C','Muon1_Run2024D','Muon1_Run2024E','Muon1_Run2024F','Muon1_Run2024G','Muon1_Run2024H','Muon1_Run2024I'],
     'UL2017': ['SingleMuon_Run2017B','SingleMuon_Run2017C','SingleMuon_Run2017D','SingleMuon_Run2017E','SingleMuon_Run2017F'],
+    'UL2016_preVFP': ['SingleMuon_Run2016B','SingleMuon_Run2016C','SingleMuon_Run2016D','SingleMuon_Run2016E','SingleMuon_Run2016F'], #needs to be changed
+
 }
 
 zptweightName = {
@@ -99,6 +119,8 @@ zptweightName = {
 eraLumi = {
     '2024'   : 109080.,
     'UL2017' :  41480.,
+    'UL2016_preVFP' : 19500.,  
+    'UL_2016_postVFP' :  16800.,
 }
 
 ################
